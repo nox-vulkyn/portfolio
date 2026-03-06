@@ -1,0 +1,181 @@
+{
+  "hero": {
+    "name": "Arnav Garg",
+    "roleLine": "Security Researcher | GenAI-driven Security Automation",
+    "subtitle": "Security Researcher and Cyber Security Engineer with 3+ years of hands-on experience securing the SDLC end to end.",
+    "description": "I translate complex threat landscapes into automated defenses, blending shift-left security with GenAI insights so engineering teams can move fast without compromising integrity.",
+    "contact": [
+      { "label": "+91 7340767838", "type": "phone" },
+      { "label": "garg.arnav77@gmail.com", "type": "email" },
+      {
+        "label": "linkedin.com/in/rnav-7",
+        "type": "link",
+        "href": "https://linkedin.com/in/rnav-7"
+      }
+    ],
+    "photo": "/Profile.png",
+    "cta": [
+    { "label": "Download CV", "href": "/Arnav-Garg-CV.pdf", "variant": "solid" },
+    { "label": "See projects", "page": "projects", "variant": "ghost" }
+  ]
+  },
+  "metrics": [
+    {
+      "label": "Years of practice",
+      "value": "3+",
+      "descriptor": "Security research & automation" 
+    },
+    {
+      "label": "HackTheBox machines",
+      "value": "40+",
+      "descriptor": "Including ProLab: FullHouse & Fortress: JET"
+    },
+    {
+      "label": "Automations delivered",
+      "value": "8+",
+      "descriptor": "GenAI-led pipelines & RAG playbooks"
+    }
+  ],
+  "competencies": [
+    "Security Testing: Penetration Testing, Red-Teaming, SAST, DAST, SCA, Secure Code Review",
+    "Automation & AI: GenAI automation, AI-assisted code review, automated security testing workflows, RAG-based solutions",
+    "DevOps & Cloud Security: Shift-left security, CI/CD security integration, threat modeling, incident response automation"
+  ],
+  "achievements": [
+    "Selected as Top Performer three times across H2 + quarterly milestones while leading GenAI automation for developer tooling.",
+    "Ranked in the Top 10% on TryHackMe through disciplined scenario runs and documenting playbooks for the team.",
+    "Solved 40+ HackTheBox machines, including ProLab: FullHouse and Fortress: JET, to keep offensive instincts sharp.",
+    "Earned HackerRank recognition for rapid vulnerability validation during collaborative red-team ops."
+  ],
+  "skillSets": [
+    {
+      "title": "Languages & platforms",
+      "items": [
+        "Python",
+        "Java",
+        "Azure AI",
+        "GitGuardian",
+        "Checkmarx",
+        "Wiz",
+        "JFrog Xray",
+        "FastAPI",
+        "Azure OpenAI",
+        "Azure Cognitive Search",
+        "Real-time streaming"
+      ]
+    },
+    {
+      "title": "Tools & technologies",
+      "items": [
+        "Burp Suite",
+        "Metasploit",
+        "OWASP ZAP",
+        "OpenVAS",
+        "Nmap",
+        "SQLMap",
+        "Radare2",
+        "Twilio",
+        "Docker",
+        "SAST",
+        "DAST",
+        "SCA",
+        "RAG"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Highhradus Corporation",
+      "title": "Cyber Security Engineer",
+      "duration": "June 2022 — Present",
+      "summary": "Leading GenAI-driven security automation, embedding penetration testing, detection, and compliance workflows into delivery pipelines.",
+      "impact": [
+        "Implemented and enhanced end-to-end security pipelines as part of a shift-left strategy, improving vulnerability coverage and accelerating remediation across the SDLC.",
+        "Led penetration testing and red-teaming efforts to uncover critical vulnerabilities; collaborated with engineering teams to remediate findings and validate fixes.",
+        "Built GenAI-powered security automation (AI-assisted code reviews, automated security testing workflows) that reduced manual effort and improved audit readiness.",
+        "Designed threat modeling and incident response automation; created auto-generated reports and dashboards to track risk and time-to-mitigation.",
+        "Developed and deployed shift-report analytics to quantify security coverage and drive continuous improvement."
+      ],
+      "technologies": ["Azure", "GenAI", "SAST", "DAST", "SCA", "SIEM"]
+    },
+    {
+      "company": "Highhradus Corporation",
+      "title": "Associate Software Engineer (Security/Automation focus)",
+      "duration": "Prior to 2022",
+      "summary": "Secured automation-first features and communication systems while collaborating with application teams on secure data handling.",
+      "impact": [
+        "Designed and developed an Automated Calling Bot leveraging Azure AI, Twilio, and real-time streaming to streamline user interactions.",
+        "Implemented real-time transcription, automated emailing, and intelligent decision-making to support secure customer communications.",
+        "Architected a multi-user chat app with secure networking protocols and backend services on Python Flask.",
+        "Built a GUI-based password manager with encrypted storage and crypto best practices.",
+        "Delivered Auto-Invoice prediction and management tooling using Java, React, and Python to automate finance workflows."
+      ],
+      "technologies": ["Azure AI", "Twilio", "Python", "React", "Java"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "GenAI Automations Portfolio",
+      "description": "RAG for compliance questionnaires, AI code review bot, GenAI-integrated DAST solution, and shift-report automation for incident response.",
+      "role": "Automation Architect",
+      "stack": ["OpenAI", "LangChain", "SAST", "DAST", "RAG"],
+      "badge": "AI Automation",
+      "link": "#projects"
+    },
+    {
+      "title": "Reconnaissance Bot",
+      "description": "Automated passive/active enumeration tool (JS & Python) for security assessments that scales reconnaissance across attack surfaces.",
+      "role": "Lead Engineer",
+      "stack": ["Python", "Node.js", "Burp Suite", "Nmap"],
+      "badge": "Offensive Tooling",
+      "link": "#projects"
+    },
+    {
+      "title": "Secure Communication Suite",
+      "description": "Automated calling bot, real-time transcription, intelligent decisioning, and secure messaging built with Azure AI, Twilio, and streaming pipelines designed for privacy and customer trust.",
+      "role": "Security Engineer",
+      "stack": ["Azure AI", "Twilio", "Real-time streaming", "FastAPI"],
+      "badge": "Customer Experience",
+      "link": "#projects"
+    },
+    {
+      "title": "Ransomware Simulation Lab",
+      "description": "Ethical, controlled ransomware simulations to study attacker behavior, validate the playbook, and improve defensive readiness within approved ethics frames.",
+      "role": "Simulation Designer",
+      "stack": ["Custom tooling", "Scripting", "Controlled lab"],
+      "badge": "Red Teaming"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "Bachelors in Computer Science with Business Systems",
+      "year": "Graduated"
+    },
+    {
+      "institution": "CBSE",
+      "degree": "XII with Maths and Science",
+      "year": "Completed"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council",
+      "year": "2024",
+      "description": "Demonstrated proficiency in offensive tooling, threat enumeration, and exploit validation."
+    },
+    {
+      "name": "Azure Security Engineer Associate (AZ-500)",
+      "issuer": "Microsoft",
+      "year": "2023",
+      "description": "Validated capability to design defensive controls, manage identity, and secure cloud-native workloads."
+    },
+    {
+      "name": "Offensive Security Certified Professional (OSCP)",
+      "issuer": "OffSec",
+      "year": "2022",
+      "description": "Proved hands-on ability to breach and pivot across hardened lab networks under a timed exam."
+    }
+  ]
+}
